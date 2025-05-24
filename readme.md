@@ -7,7 +7,7 @@ A simple calculator built using HTML, CSS, and JavaScript that performs basic ar
 - User-friendly interface
 - Responsive design
 - Lightweight and fast
-
+- easy interface
 ## Technologies Used
 - HTML
 - CSS
